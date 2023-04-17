@@ -18,9 +18,11 @@
 <h3 align="left">Some Projects of Mine:</h3>
 
 <h3 align="left">Brainflix Full Stack App</h3>
+
 ![Screen Recording 2023-04-14 at 11](https://user-images.githubusercontent.com/123577810/232135236-e66b984c-423a-4220-aa00-b8c2d811556e.gif)
 
 <h3 align="left">Journey, a React Platformer using Canvas API</h3>
+
 ![Screen Recording 2023-04-14 at 12 14 15 PM](https://user-images.githubusercontent.com/123577810/232136743-4e34d8bb-92ef-4bb7-aaa2-a768dd378eae.gif)
 
 <h3 align="left">Languages and Tools:</h3>

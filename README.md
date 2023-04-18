@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **timsnguyen@hotmail.com**
 
-- ⚡ Fun fact **I love horror movies, let me know if you have any recommendations. :)**
+- ⚡ Fun fact **Mr.Robot tv series sparked my interest in programming. :)**
 
 
 <h3 align="left">Some Projects of Mine:</h3>

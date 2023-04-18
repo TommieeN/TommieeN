@@ -28,7 +28,7 @@
 ![Screen Recording 2023-04-14 at 12 14 15 PM](https://user-images.githubusercontent.com/123577810/232136743-4e34d8bb-92ef-4bb7-aaa2-a768dd378eae.gif)
 
 
-<h3 align="left"> BandSite, A Responsive Website using REST API's.
+<h3 align="left"> BandSite, A Responsive Website using REST API's. https://my-band-site.netlify.app/
 
  
   ![Screen Recording 2023-04-17 at 3](https://user-images.githubusercontent.com/123577810/232626522-5bc32229-7539-45f1-967c-13233dd96154.gif)

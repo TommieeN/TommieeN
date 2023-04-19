@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tommy</h1>
 <h3 align="center">A passionate full stack developer from Surrey, British Columbia</h3>
 
-- 🔭 I’m currently working on a platformer game, [Journey](https://github.com/TommieeN/Journey-React-Platformer-Game)
+- 🔭 I’m currently working on a platformer game, [Journey](https://github.com/TommieeN/Journey-React-Platformer-Game) and my portfolio.
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **three.js**
 
 - 💬 Ask me about **React or Canvas**
 

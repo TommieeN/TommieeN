@@ -16,10 +16,9 @@
 
 <h3 align="left">Brainflix Full Stack App</h3> 
 
+<img src="https://user-images.githubusercontent.com/123577810/232135236-e66b984c-423a-4220-aa00-b8c2d811556e.gif" alt="Screen Recording" width="100%">
 
-![Screen Recording 2023-04-14 at 11](https://user-images.githubusercontent.com/123577810/232135236-e66b984c-423a-4220-aa00-b8c2d811556e.gif)
-
-
+<div style="display: flex">
  <h3>Front End  <a href="https://github.com/TommieeN/Brainflix">Repo</a> </br></h3>
  <ul>
   <li>React</li>
@@ -29,23 +28,20 @@
   <li>BEM</li>
  </ul>
 
- 
- 
- 
   <h3>Back End <a href="https://github.com/TommieeN/brainflix-api">Repo</a></h3> 
  <ul>
   <li>Node.js</li>
   <li>Express.js</li>
   <li>REST API</li>
  </ul>
- 
+ </div>
 ________________________________________________________________________________________________________________________
 
 
 
 <h3 align="left">Journey, a React Platformer using Canvas API</h3>
 
-![Screen Recording 2023-04-14 at 12 14 15 PM](https://user-images.githubusercontent.com/123577810/232136743-4e34d8bb-92ef-4bb7-aaa2-a768dd378eae.gif)
+<img src="https://user-images.githubusercontent.com/123577810/232136743-4e34d8bb-92ef-4bb7-aaa2-a768dd378eae.gif" alt="Screen Recording" width="100%">
 
 <h3>Front End <a href="https://github.com/TommieeN/Journey-React-Platformer-Game">Repo</a></h3>
  <ul>
@@ -66,7 +62,7 @@ ________________________________________________________________________________
 <h3 align="left"> BandSite, A Responsive Website using REST API's. https://my-band-site.netlify.app/
 
  
-  ![Screen Recording 2023-04-17 at 3](https://user-images.githubusercontent.com/123577810/232626522-5bc32229-7539-45f1-967c-13233dd96154.gif)
+  <img src="https://user-images.githubusercontent.com/123577810/232626522-5bc32229-7539-45f1-967c-13233dd96154.gif" alt="Screen Recording" width="100%">
 
  <h3>Front End <a href="https://github.com/TommieeN/band-site">Repo</a></h3>
  <ul>

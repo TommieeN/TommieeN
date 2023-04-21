@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React or Canvas**
 
-- 🧑‍💻 Checkout my Portfolio <a>tommy-js.com</a>
+- 🧑‍💻 Checkout my Portfolio [<a>tommy-js.com</a>](https://tommy-js.com/)
 
 - 📫 How to reach me **timsnguyen@hotmail.com** 
 

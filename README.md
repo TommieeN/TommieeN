@@ -48,7 +48,7 @@ ________________________________________________________________________________
  <ul>
   <li>React</li>
   <li>JavaScript</li>
-  <li>HTML5 Canvas</li>
+  <li>Canvas API</li>
   <li>JSON</li>
   <li>SASS</li>
  <li>BEM</li>

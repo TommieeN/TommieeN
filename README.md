@@ -19,7 +19,7 @@
 
 <h3>Portfolio https://tommy-js.com/ </h3>
 
-<img src="https://user-images.githubusercontent.com/123577810/233741624-601ed820-b1d4-49b7-8bf0-c06d9f1a5daa.gif" alt="Screen Recording" width="100%">
+<img src="https://user-images.githubusercontent.com/123577810/233745097-788184b8-ef41-4c33-812e-3f69a957eccb.gif" alt="Screen Recording" width="100%">
 
 <h3>Front End<a href="https://github.com/TommieeN/tommys-3d-portfolio"> Repo</a> </br></h3>
  <ul>

@@ -16,6 +16,23 @@
 
 <h3 align="left">Some Projects of Mine:</h3>
 
+
+<h3>Portfolio https://tommy-js.com/ </h3>
+
+<img src="https://user-images.githubusercontent.com/123577810/233741624-601ed820-b1d4-49b7-8bf0-c06d9f1a5daa.gif" alt="Screen Recording" width="100%">
+
+<h3>Front End<a href="https://github.com/TommieeN/tommys-3d-portfolio">Repo</a> </br></h3>
+ <ul>
+  <li>React</li>
+  <li>ReactThreeFibre</li>
+  <li>React Router Dom</li>
+  <li>React Tilt</li>
+  <li>Framer Motion</li>
+  <li>EmailJS</li>
+  <li>TailWindCSS</li>
+ </ul>
+
+
 <h3 align="left">Brainflix Full Stack App</h3> 
 
 <img src="https://user-images.githubusercontent.com/123577810/232135236-e66b984c-423a-4220-aa00-b8c2d811556e.gif" alt="Screen Recording" width="100%">

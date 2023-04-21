@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tommy</h1>
 <h3 align="center">A passionate full stack developer from Surrey, British Columbia</h3>
 
-- 🔭 I’m currently working on a platformer game, [Journey](https://github.com/TommieeN/Journey-React-Platformer-Game) and my portfolio.
+- 🔭 I’m currently working on a platformer game, [Journey](https://github.com/TommieeN/Journey-React-Platformer-Game).
 
 - 🌱 I’m currently learning **three.js**
 
 - 💬 Ask me about **React or Canvas**
 
-- 📫 How to reach me **timsnguyen@hotmail.com**
+- 🧑‍💻 Checkout my Portfolio <a>tommy-js.com</a>
+
+- 📫 How to reach me **timsnguyen@hotmail.com** 
 
 - ⚡ Fun fact **Mr.Robot tv series sparked my interest in programming. :)**
 

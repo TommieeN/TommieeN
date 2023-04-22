@@ -32,6 +32,7 @@
   <li>TailWindCSS</li>
  </ul>
 
+---
 
 <h3 align="left">Brainflix Full Stack App</h3> 
 

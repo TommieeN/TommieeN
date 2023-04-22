@@ -34,7 +34,7 @@
 
 ---
 
-<h3 align="left">Brainflix Full Stack App</h3> 
+<h3 align="left">Brainflix Full Stack App <a href="https://brainflix.onrender.com/">Deployment Link</a></h3> 
 
 <img src="https://user-images.githubusercontent.com/123577810/232135236-e66b984c-423a-4220-aa00-b8c2d811556e.gif" alt="Screen Recording" width="100%">
 

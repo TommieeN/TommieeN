@@ -80,7 +80,7 @@ ________________________________________________________________________________
 
 
 
-<h3 align="left"> BandSite, A Responsive Website using REST API's. https://my-band-site.netlify.app/
+<h3 align="left"> BandSite, A Responsive Website using REST API's. <a href="https://my-band-site.netlify.app/">Deployment Link</a></h3>
 
  
   <img src="https://user-images.githubusercontent.com/123577810/232626522-5bc32229-7539-45f1-967c-13233dd96154.gif" alt="Screen Recording" width="100%">

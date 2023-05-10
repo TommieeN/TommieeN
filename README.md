@@ -25,21 +25,28 @@
 <h3 align="left">Some Projects of Mine:</h3>
 
 
-<h3>Portfolio https://tommy-js.com/ </h3>
+<h3>Full Stack Country Flags API</h3>
+<p>Search for your flag! Filter by region and checkout bordering countries! Dark theme Toggle.
 
-<img src="https://user-images.githubusercontent.com/123577810/233745097-788184b8-ef41-4c33-812e-3f69a957eccb.gif" alt="Screen Recording" width="100%">
+![Screen Recording 2023-05-09 at 7](https://github.com/TommieeN/TommieeN/assets/123577810/05852a88-e79b-4341-b546-9087d26e2bb8)
 
-<h3>Front End<a href="https://github.com/TommieeN/tommys-3d-portfolio"> Repo</a> </br></h3>
+<h3>Front End<a href="https://github.com/TommieeN/country-flags-api"> Repo</a> </br></h3>
  <ul>
   <li>React</li>
-  <li>ReactThreeFibre</li>
+  <li>BEM</li>
   <li>React Router Dom</li>
-  <li>React Tilt</li>
-  <li>Framer Motion</li>
-  <li>EmailJS</li>
-  <li>TailWindCSS</li>
+  <li>SCSS</li>
+  <li>Axios</li>
+  <li>Local Storage API</li>
  </ul>
-
+ 
+<h3>Back End <a href="https://github.com/TommieeN/country-flags-api">Repo</a></h3> 
+ <ul>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>REST API</li>
+ </ul>
+ 
 ---
 
 <h3 align="left">Brainflix Full Stack App <a href="https://brainflix.onrender.com/">Deployment Link</a></h3> 

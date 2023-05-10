@@ -25,6 +25,7 @@
 
 <h3 align="center"> ✨MOST RECENT✨ </h3> 
 <h3 align="center">Full Stack Country Flags API <a href="https://client-flags.onrender.com/">Deployment Link</a></h3> 
+<p align="center"> NOTE: Deployment links with backends take a minute or two to start up due to the free version of render!</p>
 <p align="center">Search for your flag! Filter by region and checkout bordering countries! Dark theme Toggle.
 
 <img src="https://github.com/TommieeN/TommieeN/assets/123577810/05852a88-e79b-4341-b546-9087d26e2bb8" alt="Screen Recording" width="100%">

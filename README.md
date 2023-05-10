@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **timsnguyen@hotmail.com**
 
-- 👨‍💻 All of my projects are available at **<a href="tommy-js.com">tommy-js.com</a>**
+- 👨‍💻 All of my projects are available at **<a href="www.tommy-js.com">tommy-js.com</a>**
 
 - ⚡ Fun fact **Mr.Robot tv series sparked my interest in programming. :)**
 

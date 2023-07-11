@@ -23,28 +23,32 @@
 ----
 
 
-<h3 align="center"> ✨MOST RECENT✨ </h3> 
-<h3 align="center">Full Stack Country Flags API <a href="https://client-flags.onrender.com/">Deployment Link</a></h3> 
-<p align="center"> NOTE: Deployment links with backends take a minute or two to start up due to the free version of render!</p>
-<p align="center">Search for your flag! Filter by region and checkout bordering countries! Dark theme Toggle.
+<h3 align="center">✨Latest Project Showcase✨</h3>
+<h3 align="center">Full Stack BandSite Revamped <a href="https://github.com/TommieeN/band-site-react-client">Check out the Deployment</a></h3>
+<p align="center">Experience the impressive transformation of my BandSite Project, now enhanced with cutting-edge technologies and industry best practices.</p>
+<p align="center">This reimagined project leverages the power of React JS to deliver a seamless user experience, complemented by the sleek and responsive styling of TailWindCSS. With efficient axios calls to the backend, data is effortlessly retrieved from dedicated routes, ensuring optimal performance and interactivity.</p>
+<p align="center">Explore this showcase to witness my expertise in full stack development and my ability to adapt to the latest tools and frameworks, all while delivering polished and user-friendly applications.</p>
 
-<img src="https://github.com/TommieeN/TommieeN/assets/123577810/05852a88-e79b-4341-b546-9087d26e2bb8" alt="Screen Recording" width="100%">
+<img src="https://user-images.githubusercontent.com/123577810/232626522-5bc32229-7539-45f1-967c-13233dd96154.gif" alt="Screen Recording" width="100%">
  
-<h3>Front End<a href="https://github.com/TommieeN/country-flags-api"> Repo</a> </br></h3>
+ <h3>Front End <a href="https://github.com/TommieeN/band-site-react-client">Repo</a></h3>
  <ul>
-  <li>React</li>
+  <li>REACT.JS</li>
+  <li>REACT-ROUTER-DOM</li>
+  <li>TAILWIND-CSS</li>
+  <li>REST-API</li>
   <li>BEM</li>
-  <li>React Router Dom</li>
-  <li>SCSS</li>
-  <li>Axios</li>
-  <li>Local Storage API</li>
  </ul>
  
-<h3>Back End <a href="https://github.com/TommieeN/country-flags-api">Repo</a></h3> 
+ 
+<h3>Back End <a href="https://github.com/TommieeN/bandsite-server">Repo</a></h3>
  <ul>
-  <li>Node.js</li>
-  <li>Express.js</li>
-  <li>REST API</li>
+  <li>EXPRESS</li>
+  <li>NODE</li>
+  <li>JSON</li>
+  <li>FS</li>
+  <li>CORS</li>
+  <li>UUID</li>
  </ul>
  
 ---

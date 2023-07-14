@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tommy</h1>
 <h3 align="center">A passionate full stack developer from Surrey, British Columbia</h3>
 
-- 🔭 I’m currently working on [Front End Mentor Challenges](https://www.frontendmentor.io/profile/TommieeN)
+- 🔭 I’m currently working on refactoring my <a href="https://github.com/TommieeN/Brainflix/tree/typescript-refactor">Brainflix</a> with typescript!
 
-- 🌱 I’m currently learning **three.js**, **tailwindCSS**, **TypeScript**
+- 🌱 I’m currently learning **tailwindCSS**, **TypeScript**
 
 - 💬 Ask me about **React**
 

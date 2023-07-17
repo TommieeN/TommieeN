@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **timsnguyen@hotmail.com**
 
-- 📖 **<a href="https://drive.google.com/file/d/14cWLTmg7vP_lyjnffJlDN2JpFD3f31xq/view?usp=sharing">RESUME</a>**
+- 📖 My Experience **<a href="https://drive.google.com/file/d/14cWLTmg7vP_lyjnffJlDN2JpFD3f31xq/view?usp=sharing">Resume</a>**
 
 - 👨‍💻 All of my projects are available at **<a href="https://tommy-js.com/">tommy-js.com</a>**
 

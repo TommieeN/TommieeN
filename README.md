@@ -28,7 +28,7 @@
 <h3 align="center">✨Latest Project Showcase✨</h3>
 <h3 align="center">Full Stack BandSite Revamped <a href="https://my-band-site.netlify.app/">Deployment</a></h3>
 <p align="center">Check out my refactored <a href="https://github.com/TommieeN/band-site-react-client">BandSite Project</a>.</p>
-<p align="center">Built with TailwindCSS and ReactJS, with a back end with routes to handle data.</p>
+<p align="center">Built with TailwindCSS, React, and a back end with routes to handle data.</p>
 
 <img src="https://user-images.githubusercontent.com/123577810/232626522-5bc32229-7539-45f1-967c-13233dd96154.gif" alt="Screen Recording" width="100%">
  

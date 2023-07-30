@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **Mr.Robot tv series sparked my interest in programming. :)**
 
+- <img src="https://www.codewars.com/users/TommieeN/badges/small"/>
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>

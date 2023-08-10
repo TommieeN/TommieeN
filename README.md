@@ -16,7 +16,7 @@
 - ⚡ Fun fact **Mr.Robot tv series sparked my interest in programming. :)**
 
 - <img src="https://www.codewars.com/users/TommieeN/badges/small"/>
-
+- ![](https://komarev.com/ghpvc/?username=TommieeN)
 ---
 
 <h3 align="left">Languages and Tools:</h3>

@@ -29,30 +29,16 @@
 
 
 <h3 align="center">✨Latest Project Showcase✨</h3>
-<h3 align="center">Full Stack BandSite Revamped <a href="https://my-band-site.netlify.app/">Deployment</a></h3>
-<p align="center">Check out my refactored <a href="https://github.com/TommieeN/band-site-react-client">BandSite Project</a>.</p>
-<p align="center">Built with TailwindCSS, React, and a back end with routes to handle data.</p>
+<h3 align="center">New space themed portfolio<a href="https://tommy-js.com/">tommy-js.com</a></h3>
+<p align="center">Built with TailwindCSS and React. Some libraries I used: Toastify, Flicking and more! </p>
 
-<img src="https://user-images.githubusercontent.com/123577810/232626522-5bc32229-7539-45f1-967c-13233dd96154.gif" alt="Screen Recording" width="100%">
+<img src="https://github.com/TommieeN/TommieeN/assets/123577810/0f9546c1-de0e-4f1e-8348-052aacd07f30" alt="Screen Recording" width="100%">
  
- <h3>Front End <a href="https://github.com/TommieeN/band-site-react-client">Repo</a></h3>
+ <h3>Front End <a href="https://github.com/TommieeN/tailwind-portfolio">Repo</a></h3>
  <ul>
   <li>REACT.JS</li>
   <li>REACT-ROUTER-DOM</li>
   <li>TAILWIND-CSS</li>
-  <li>REST-API</li>
-  <li>BEM</li>
- </ul>
- 
- 
-<h3>Back End <a href="https://github.com/TommieeN/bandsite-server">Repo</a></h3>
- <ul>
-  <li>EXPRESS</li>
-  <li>NODE</li>
-  <li>JSON</li>
-  <li>FS</li>
-  <li>CORS</li>
-  <li>UUID</li>
  </ul>
  
 ---

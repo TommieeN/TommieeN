@@ -29,7 +29,7 @@
 
 
 <h3 align="center">✨Latest Project Showcase✨</h3>
-<h3 align="center">New space themed portfolio<a href="https://tommy-js.com/">tommy-js.com</a></h3>
+<h3 align="center">New space themed portfolio <a href="https://tommy-js.com/">tommy-js.com</a></h3>
 <p align="center">Built with TailwindCSS and React. Some libraries I used: Toastify, Flicking and more! </p>
 
 <img src="https://github.com/TommieeN/TommieeN/assets/123577810/8c32f312-e3e8-47f6-a9cf-590530c0d59e" alt="Screen Recording" width="100%">

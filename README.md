@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tommy</h1>
 <h3 align="center">A passionate full stack developer from Surrey, British Columbia</h3>
 
-- 🔭 I’m currently working on testing react apps with Jest!
+- 🔭 I’m currently testing react apps with Jest!
 
 - 🌱 I’m currently learning **tailwindCSS**, **TypeScript**
 

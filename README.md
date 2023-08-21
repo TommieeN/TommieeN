@@ -35,7 +35,7 @@
 
 <img src="https://github.com/TommieeN/TommieeN/assets/123577810/7bf7e70e-5bbd-4463-b7e4-648dc849dd70" alt="Screen Recording" width="100%">
  
- <h3>Front End <a href="https://github.com/TommieeN/tailwind-portfolio">Repo</a></h3>
+ <h3>Front End <a href="https://github.com/TommieeN/rock-paper-scissors">Repo</a></h3>
  <ul>
   <li>REACT.JS</li>
   <li>TypeScript</li>

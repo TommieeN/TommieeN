@@ -30,16 +30,16 @@
 
 
 <h3 align="center">✨Latest Project Showcase✨</h3>
-<h3 align="center">New space themed portfolio <a href="https://tommy-js.com/">tommy-js.com</a></h3>
-<p align="center">Built with TailwindCSS and React. Some libraries I used: Toastify, Flicking and more! </p>
+<h3 align="center">Front-End Mentor Project: Rock, Paper, Scissors!<a href="https://rock-paper-scissors-tommy.netlify.app/">Deployment</a></h3>
+<p align="center">Built with Typescript, TailwindCSS and React. Libraries: Framer Motion</p>
 
-<img src="https://github.com/TommieeN/TommieeN/assets/123577810/8c32f312-e3e8-47f6-a9cf-590530c0d59e" alt="Screen Recording" width="100%">
+<img src="https://github.com/TommieeN/TommieeN/assets/123577810/7bf7e70e-5bbd-4463-b7e4-648dc849dd70" alt="Screen Recording" width="100%">
  
  <h3>Front End <a href="https://github.com/TommieeN/tailwind-portfolio">Repo</a></h3>
  <ul>
   <li>REACT.JS</li>
-  <li>REACT-ROUTER-DOM</li>
-  <li>TAILWIND-CSS</li>
+  <li>TypeScript</li>
+  <li>TailWindCSS</li>
  </ul>
  
 ---

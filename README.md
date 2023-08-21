@@ -30,7 +30,7 @@
 
 
 <h3 align="center">✨Latest Project Showcase✨</h3>
-<h3 align="center">Front-End Mentor Project: Rock, Paper, Scissors! <a href="https://rock-paper-scissors-tommy.netlify.app/">Deployment</a></h3>
+<h3 align="center">Front-End Mentor Project: Rock, Paper, Scissors! <a href="https://rock-paper-scissors-tommy.netlify.app/"> Deployment</a></h3>
 <p align="center">Built with Typescript, TailwindCSS and React. Libraries: Framer Motion</p>
 
 <img src="https://github.com/TommieeN/TommieeN/assets/123577810/7bf7e70e-5bbd-4463-b7e4-648dc849dd70" alt="Screen Recording" width="100%">

@@ -28,15 +28,17 @@
 
 
 <h3 align="center">✨Latest Project Showcase✨</h3>
-<h3 align="center">Portfolio Website <a href="https://tommy-js.com/">tommy-js.com</a></h3>
+<h3 align="center">SnapDrop Instagram Clone <a href="https://snap-drop-alpha.vercel.app/">Deployment</a></h3>
 
-<img src="https://github.com/TommieeN/TommieeN/assets/123577810/a56c8739-c990-4af3-a0be-494a00c353c2" alt="Screen Recording" width="100%">
+<img src="https://github.com/TommieeN/TommieeN/assets/123577810/1834c697-44d3-49d2-bba4-1fca5ff199de" alt="Screen Recording" width="100%">
  
- <h3>Front End <a href="https://github.com/TommieeN/global-portfolio">Repo</a></h3>
+ <h3>Tech Stack and <a href="https://github.com/TommieeN/SnapDrop">Repo</a></h3>
  <ul>
   <li>React</li>
   <li>TypeScript</li>
-  <li>SCSS</li>
+  <li>TailwindCSS</li>
+  <li>AppWrite</li>
+  <li>TanStack-React-Query</li>
  </ul>
  
 ---

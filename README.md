@@ -28,7 +28,7 @@
 
 
 <h3 align="center">✨Latest Project Showcase✨</h3>
-<h3 align="center">SnapDrop Instagram Clone <a href="https://snap-drop-alpha.vercel.app/sign-in">Deployment</a></h3>
+<h3 align="center">SnapDrop Instagram Clone <a target="_blank" href="https://snap-drop-alpha.vercel.app/sign-in">Deployment</a></h3>
 
 <img src="https://github.com/TommieeN/TommieeN/assets/123577810/1834c697-44d3-49d2-bba4-1fca5ff199de" alt="Screen Recording" width="100%">
  

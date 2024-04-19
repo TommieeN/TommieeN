@@ -30,4 +30,5 @@
  <ul>
   <li>React</li>
   <li>SCSS</li>
+  <li>Framer Motion</li>
  </ul>

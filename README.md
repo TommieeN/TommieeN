@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tommy</h1>
 <h3 align="center">A passionate full stack developer from Surrey, British Columbia</h3>
 
-- 🌱 I’m currently learning **tailwindCSS**, **TypeScript**
+- 🌱 I’m currently solving leet code problems <a href="https://leetcode.com/u/TommieeN/">Profile</a>
 
 - 📫 How to reach me **timsnguyen@hotmail.com**
 

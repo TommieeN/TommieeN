@@ -19,7 +19,7 @@
 
 <h3 align="center">✨Latest Project Showcase✨</h3>
 <h3 align="center">Nails 4 Life <a target="_blank" href="https://nails4lifesurrey.com/">Website</a></h3>
-<p>A website I created for my nail salon business that I manage, located in Surrey BC. Users can read about us and learn more about our services while also booking online appointments.</p>
+<p>A website I created for a nail salon business, located in Surrey BC. Users can read about us and learn more about their services while also booking online appointments.</p>
 <img src="https://github.com/TommieeN/TommieeN/assets/123577810/16c42849-4e7a-486b-914c-18360ed0c80d" width="100%">
 
  <h3>Tech Stack</h3>

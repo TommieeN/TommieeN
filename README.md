@@ -23,10 +23,6 @@ I'm excited to announce that I've built a fully functional website for a real bu
 
 <a href="https://nails4lifesurrey.com/">nails4lifesurrey.com</a>
 
-![Screenshot 2024-09-04 at 11 05 35 PM](https://github.com/user-attachments/assets/a943ec55-99f2-41a3-842a-951377503cb9)
-
-![Screenshot 2024-09-04 at 11 05 48 PM](https://github.com/user-attachments/assets/b44f7ebe-8baa-42f8-98a2-93ec01b29196)
-
 ![Screenshot 2024-09-04 at 11 06 03 PM](https://github.com/user-attachments/assets/2ed49739-b408-4b11-9cf4-e8cc6a820eef)
 
 <h3 align="left">Languages and Tools:</h3>

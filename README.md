@@ -25,6 +25,10 @@ I'm excited to announce that I've built a fully functional website for a real bu
 
 ![Screenshot 2024-09-04 at 11 06 03 PM](https://github.com/user-attachments/assets/2ed49739-b408-4b11-9cf4-e8cc6a820eef)
 
+<h3>Google Page Speed Insights!</h3>
+
+![Screenshot 2024-09-08 at 6 31 21 PM](https://github.com/user-attachments/assets/a5cdd084-a3b6-47f5-ab42-7cd7d9715c06)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 React, Typescript, FramerMotion, SCSS, Google API.

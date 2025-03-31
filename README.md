@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **timsnguyen@hotmail.com**
 
-- 👨‍💻 All of my projects are available at **<a href="https://tommy-js.com/">tommy-js.com</a>**
-
 - ⚡ Fun fact **Mr.Robot tv series sparked my interest in programming. I'm also in love with space films. :)**
 
 - <img src="https://www.codewars.com/users/TommieeN/badges/small"/>
